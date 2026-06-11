@@ -1,0 +1,1 @@
+Use this command to generate the key for a file: `sha256sum <file-name-with-extension>`
